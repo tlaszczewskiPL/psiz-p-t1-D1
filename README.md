@@ -1,4 +1,1 @@
-void Krystian_Naskręski(void)
-{
-	Krystian Naskręski
-}
+task1_list
