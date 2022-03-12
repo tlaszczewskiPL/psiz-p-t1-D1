@@ -10,3 +10,14 @@ void tomasz_romanski(void)
 {
 	Tomasz Romanski
 }
+
+void Krystian_Naskręski(void) 
+{ 
+	Krystian Naskręski 
+}
+
+void mateusz_wabinski(void)
+{
+	Mateusz Wabinski
+}
+
