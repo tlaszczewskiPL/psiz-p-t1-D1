@@ -21,3 +21,7 @@ void mateusz_wabinski(void)
 	Mateusz Wabinski
 }
 
+void mateusz_zielinski(void)
+{
+	Mateusz Zieliński
+}
