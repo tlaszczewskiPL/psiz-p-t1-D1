@@ -6,6 +6,11 @@ void jan_kowalski(void)
 	Jan Kowalski
 }
 
+void Krystian_Naskręski(void) 
+{ 
+	Krystian Naskręski 
+}
+
 void mateusz_wabinski(void)
 {
 	Mateusz Wabinski
