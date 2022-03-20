@@ -25,3 +25,8 @@ void mateusz_zielinski(void)
 {
 	Mateusz Zieliński
 }
+
+void ilona_nietrzeba(void)
+{
+	Ilona Nietrzeba
+}
