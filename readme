@@ -30,3 +30,8 @@ void marcin_makarewicz(void)
 {
 	Marcin Makarewicz
 }
+
+void ilona_nietrzeba(void)
+{
+	Ilona Nietrzeba
+}
