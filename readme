@@ -26,6 +26,11 @@ void mateusz_zielinski(void)
 	Mateusz Zieliński
 }
 
+void marcin_makarewicz(void)
+{
+	Marcin Makarewicz
+}
+
 void ilona_nietrzeba(void)
 {
 	Ilona Nietrzeba
